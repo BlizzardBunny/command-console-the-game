@@ -1,0 +1,17 @@
+﻿← → ↑ ↓
+
+Hello, User! Welcome to the Command Console. What would you like to do today?
+
+[→] Run an application
+[←] Look through some files
+[ ↑ ] Start over
+
+1: Which application would you like to open?
+	[→] Popular Generic Videogame The Game
+	[←] CryptoLocker.exe
+	[ ↑ ] Start over
+
+2: Which folders would you like to look through?
+	[→] Just the usual Documents and Downloads folders. Maybe clean up the Recycling Bin too.
+	[←] System Files
+	[ ↑ ] Start over

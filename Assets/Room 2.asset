@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1bca3873ba01e74b896265f564da466, type: 3}
+  m_Name: Room 2
+  m_EditorClassIdentifier: 
+  storyText: "Which folders would you like to look through?\r\n\t[\u2192] Just the
+    usual Documents and Downloads folders. Maybe clean up the Recycling Bin too.\r\n\t[\u2190]
+    System Files\r\n\t[ \u2191 ] Start over"
+  nextStates:
+  - {fileID: 11400000, guid: d42c9cbb12518a440a202516da1bd0ee, type: 2}
+  - {fileID: 11400000, guid: d42c9cbb12518a440a202516da1bd0ee, type: 2}
+  - {fileID: 11400000, guid: d42c9cbb12518a440a202516da1bd0ee, type: 2}
