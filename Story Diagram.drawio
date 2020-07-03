@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-03T16:18:54.504Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="0TJtF0P7pgJRxt9zHxZm" version="13.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-03T19:12:46.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="S_Z1Vivu63-l484dbyT0" version="13.3.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="716" dy="400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -10,19 +10,21 @@
         <mxCell id="G_LtqzB8PGayeKmqLbbJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G_LtqzB8PGayeKmqLbbJ-1" target="G_LtqzB8PGayeKmqLbbJ-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G_LtqzB8PGayeKmqLbbJ-1" value="&lt;div&gt;Hello, User! Welcome to the Command Console. What would you like to do today?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[→] Run an application&lt;/div&gt;&lt;div&gt;[←] Look through some files&lt;/div&gt;&lt;div&gt;[ ↑ ] Start over&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="30" y="170" width="230" height="100" as="geometry" />
+        <mxCell id="G_LtqzB8PGayeKmqLbbJ-1" value="&lt;div style=&quot;font-size: 24px&quot;&gt;Start:&lt;/div&gt;&lt;div&gt;Hello, User! Welcome to the Command Console. What would you like to do today?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[→] Run an application&lt;/div&gt;&lt;div&gt;[←] Look through some files&lt;/div&gt;&lt;div&gt;[ ↑ ] Start over&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="30" y="140" width="230" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="rjlh_XGYD9krDsAeV4SP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G_LtqzB8PGayeKmqLbbJ-3" target="rjlh_XGYD9krDsAeV4SP-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="rjlh_XGYD9krDsAeV4SP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G_LtqzB8PGayeKmqLbbJ-3" target="6cd2AyFSmQvTcg-SOqOJ-0" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="75" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rjlh_XGYD9krDsAeV4SP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G_LtqzB8PGayeKmqLbbJ-3" target="rjlh_XGYD9krDsAeV4SP-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G_LtqzB8PGayeKmqLbbJ-3" value="&lt;div&gt;Which application would you like to open?&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[→] Popular Generic Videogame The Game&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[←] CryptoLocker.exe&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[ ↑ ] Start over&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="290" y="100" width="230" height="100" as="geometry" />
+        <mxCell id="G_LtqzB8PGayeKmqLbbJ-3" value="&lt;div style=&quot;font-size: 24px&quot;&gt;G1&lt;/div&gt;&lt;div&gt;Which application would you like to open?&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[→] Popular Generic Videogame The Game&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[←] CryptoLocker.exe&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[ ↑ ] Start over&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="290" y="70" width="230" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="G_LtqzB8PGayeKmqLbbJ-7" value="&lt;div&gt;Which folders would you like to look through?&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[→] Documents&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[←] System Files&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[ ↑ ] Start over&lt;/div&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="G_LtqzB8PGayeKmqLbbJ-7" value="&lt;div style=&quot;font-size: 24px&quot;&gt;R1&lt;/div&gt;&lt;div&gt;Which folders would you like to look through?&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[→] Documents&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[←] System Files&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[ ↑ ] Start over&lt;/div&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="210" y="320" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rjlh_XGYD9krDsAeV4SP-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rjlh_XGYD9krDsAeV4SP-1" target="G_LtqzB8PGayeKmqLbbJ-3" edge="1">
@@ -36,38 +38,42 @@
         <mxCell id="rjlh_XGYD9krDsAeV4SP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rjlh_XGYD9krDsAeV4SP-1" target="rjlh_XGYD9krDsAeV4SP-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rjlh_XGYD9krDsAeV4SP-1" value="&lt;div&gt;Which function would you like it to run?&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[→] ls (lists files in current directory)&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[←] Exit (closes the program)&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[ ↑ ] Start over&lt;/div&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="560" y="180" width="230" height="100" as="geometry" />
+        <mxCell id="rjlh_XGYD9krDsAeV4SP-1" value="&lt;div style=&quot;font-size: 24px&quot;&gt;R2&lt;/div&gt;&lt;div&gt;Which function would you like it to run?&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[→] ls (lists files in current directory)&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[←] Exit (closes the program)&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[ ↑ ] Start over&lt;/div&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="560" y="180" width="230" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="rjlh_XGYD9krDsAeV4SP-2" value="&lt;i&gt;You play Popular Generic Videogame for a few hours. You eventually fall asleep without contributing anything to the world. [Bad end 1]&lt;br&gt;&lt;/i&gt;[ →/↑/←&lt;br&gt;] Start over&lt;i&gt;&lt;br&gt;&lt;/i&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="560" y="30" width="230" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="XwUO7sWHtHsJDQwBPcFf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rjlh_XGYD9krDsAeV4SP-6" target="XwUO7sWHtHsJDQwBPcFf-1">
+        <mxCell id="XwUO7sWHtHsJDQwBPcFf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rjlh_XGYD9krDsAeV4SP-6" target="XwUO7sWHtHsJDQwBPcFf-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XwUO7sWHtHsJDQwBPcFf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rjlh_XGYD9krDsAeV4SP-6" target="XwUO7sWHtHsJDQwBPcFf-3">
+        <mxCell id="XwUO7sWHtHsJDQwBPcFf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rjlh_XGYD9krDsAeV4SP-6" target="XwUO7sWHtHsJDQwBPcFf-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rjlh_XGYD9krDsAeV4SP-6" value="&lt;div&gt;Here are the list of files:&lt;/div&gt;&lt;div&gt;- Documents&lt;/div&gt;&lt;div&gt;- Program Files (x86)&lt;br&gt;Which file would you like to select?&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[→] Program Files (x86)&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[←] Documents&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[ ↑ ] Start over&lt;/div&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="820" y="110" width="230" height="100" as="geometry" />
+        <mxCell id="rjlh_XGYD9krDsAeV4SP-6" value="&lt;div style=&quot;font-size: 24px&quot;&gt;R3&lt;/div&gt;&lt;div&gt;Here are the list of files:&lt;/div&gt;&lt;div&gt;- Documents&lt;/div&gt;&lt;div&gt;- Program Files (x86)&lt;br&gt;Which file would you like to select?&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[→] Program Files (x86)&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[←] Documents&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[ ↑ ] Start over&lt;/div&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="820" y="110" width="230" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="XwUO7sWHtHsJDQwBPcFf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XwUO7sWHtHsJDQwBPcFf-1" target="XwUO7sWHtHsJDQwBPcFf-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="XwUO7sWHtHsJDQwBPcFf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XwUO7sWHtHsJDQwBPcFf-1" target="6cd2AyFSmQvTcg-SOqOJ-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1455" y="40" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="XwUO7sWHtHsJDQwBPcFf-1" value="&lt;div&gt;Which function would you like to perform on Program Files (x86)?&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[→] Delete (System files will not be affected)&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[←] Search&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[ ↑ ] Start over&lt;/div&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1080" y="40" width="230" height="100" as="geometry" />
+        <mxCell id="XwUO7sWHtHsJDQwBPcFf-1" value="&lt;div style=&quot;font-size: 24px&quot;&gt;R4&lt;/div&gt;&lt;div&gt;Which function would you like to perform on Program Files (x86)?&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[→] Delete (System files will not be affected)&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[←] Search&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[ ↑ ] Start over&lt;/div&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1080" y="40" width="230" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="XwUO7sWHtHsJDQwBPcFf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XwUO7sWHtHsJDQwBPcFf-3" target="XwUO7sWHtHsJDQwBPcFf-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="XwUO7sWHtHsJDQwBPcFf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XwUO7sWHtHsJDQwBPcFf-3" target="6cd2AyFSmQvTcg-SOqOJ-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1195" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="XwUO7sWHtHsJDQwBPcFf-3" value="&lt;div&gt;Which function would you like to perform on Documents?&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[→] Delete&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[←] Search&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[ ↑ ] Start over&lt;/div&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XwUO7sWHtHsJDQwBPcFf-3" value="&lt;div style=&quot;font-size: 24px&quot;&gt;G4&lt;/div&gt;&lt;div&gt;Which function would you like to perform on Documents?&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[→] Delete&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[←] Search&lt;/div&gt;&lt;div&gt;&lt;span&gt; &lt;/span&gt;[ ↑ ] Start over&lt;/div&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1080" y="300" width="230" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="XwUO7sWHtHsJDQwBPcFf-7" value="&lt;i&gt;You deleted all of your files. Your computer immediately replaced all System Files in their default state. You achieved one thing: your computer is now in its Factory Default setting. [Bad end 2]&lt;br&gt;&lt;/i&gt;[ →/↑/←&lt;br&gt;] Start over&lt;i&gt;&lt;br&gt;&lt;/i&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1340" y="40" width="230" height="100" as="geometry" />
+        <mxCell id="6cd2AyFSmQvTcg-SOqOJ-0" value="&lt;div style=&quot;font-size: 24px&quot;&gt;Bad End 1&lt;/div&gt;&lt;div&gt;&lt;i style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;You play Popular Generic Videogame for a few hours. You eventually fall asleep without contributing anything to the world. [Bad end 1]&lt;br&gt;&lt;/i&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;[ →/↑/←&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;] Start over&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="10" width="230" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="XwUO7sWHtHsJDQwBPcFf-9" value="&lt;i&gt;You deleted your Documents folder. You lost all of the files related to your other applications. You achieved one thing: you lost all of your game saves. [Bad end 3]&lt;br&gt;&lt;/i&gt;[ →/↑/←&lt;br&gt;] Start over&lt;i&gt;&lt;br&gt;&lt;/i&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1080" y="170" width="230" height="100" as="geometry" />
+        <mxCell id="6cd2AyFSmQvTcg-SOqOJ-2" value="&lt;div style=&quot;font-size: 24px&quot;&gt;Bad End 2&lt;/div&gt;&lt;div&gt;&lt;i&gt;You deleted all of your files. Your computer immediately replaced all System Files in their default state. You achieved one thing: your computer is now in its Factory Default setting. [Bad end 2]&lt;br&gt;&lt;/i&gt;[ →/↑/←&lt;br&gt;] Start over&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1340" y="40" width="230" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6cd2AyFSmQvTcg-SOqOJ-3" value="&lt;div style=&quot;font-size: 24px&quot;&gt;Bad End 3&lt;/div&gt;&lt;div&gt;&lt;i&gt;You deleted your Documents folder. You lost all of the files related to your other applications. You achieved one thing: you lost all of your game saves. [Bad end 3]&lt;br&gt;&lt;/i&gt;[ →/↑/←&lt;br&gt;] Start over&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1080" y="160" width="230" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
